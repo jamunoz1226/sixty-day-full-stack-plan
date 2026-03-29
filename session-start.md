@@ -37,3 +37,5 @@ Important teaching method:
 * Let me attempt each step before showing the next one
 
 Write all exercises, pseudocode, and challenges directly inside the relevant practice file. For this session, use: practice/loops.js
+
+At the end of the session, evaluate if I am ready to move to the next topic or if I should repeat this one.
