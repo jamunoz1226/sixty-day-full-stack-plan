@@ -36,4 +36,5 @@ Important teaching method:
 * Do not take over the whole file unless I explicitly ask you to
 * Let me attempt each step before showing the next one
 
-Write all exercises, pseudocode, and challenges directly inside the relevant practice file. For this session, use: practice/loops.js
+Write all exercises, pseudocode, and challenges directly inside the relevant practice file. 
+-For this session, use: practice/loops.js
