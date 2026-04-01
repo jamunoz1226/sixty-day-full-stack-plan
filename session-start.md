@@ -24,11 +24,12 @@ Rules:
 * After solving, ask me to explain it back or rebuild it without copying
 
 Current phase: Phase 1 (Fundamentals)
-Current focus: JavaScript loops
+Current focus: Day 2: Loops (Break + Conditions)
 
 Important teaching method:
 
-* First, explain the concept simply in plain English
+* First, explain the concept layman's terms
+* Use analogies for complex topics
 * Then give pseudocode steps
 * Then give me a fill-in-the-blank code template if needed
 * Only give more direct help if I still do not understand
@@ -36,6 +37,11 @@ Important teaching method:
 * Do not take over the whole file unless I explicitly ask you to
 * Let me attempt each step before showing the next one
 
+<<<<<<< HEAD
 Write all exercises, pseudocode, and challenges directly inside the relevant practice file. For this session, use: practice/loops.js
 
 At the end of the session, evaluate if I am ready to move to the next topic or if I should repeat this one.
+=======
+Write all exercises, pseudocode, and challenges directly inside the relevant practice file. 
+-For this session, use: practice/loopsBC.js
+>>>>>>> 9287cc5c9bfa140b39aba7fa212a7b61809532d1
