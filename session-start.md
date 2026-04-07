@@ -41,6 +41,21 @@ Important teaching method:
 Write all exercises, pseudocode, and challenges directly inside the relevant practice file. For this session, use: practice/loops.js
 
 At the end of the session, evaluate if I am ready to move to the next topic or if I should repeat this one.
+
+#ERROR HANDLING PROMPT
+
+I'm getting an error in my code and I want to learn how to debug it myself, not just get a fix handed to me.
+Here is my code: [paste your code]
+Here is the error message: [paste the full error output]
+Guide me through it the way a senior developer would:
+- Start with the smallest, most obvious observation first
+- Use layman's terms before technical terms
+- Tell me what the error is actually saying in plain English
+- Point me to the exact line causing the problem and explain why
+- Give me pseudocode or guiding comments in the code - not the full solution
+- Ask me to attempt the fix first
+- Only show me the full fix if I've genuinely tried and am still stuck
+Do not rewrite my code for me. Walk me through it one step at a time.
 =======
 Write all exercises, pseudocode, and challenges directly inside the relevant practice file. 
 -For this session, use: practice/loopsBC.js
